@@ -1,4 +1,4 @@
-baseURL = 'https://www.will-code-for-pay.com/'
+baseURL = 'https://www.will-code-for-pay.com'
 languageCode = 'en-us'
 title = 'Will Code For Pay - a blog about software engineering, life, and whatever...'
 theme = 'bilberry-hugo-theme/v4'
