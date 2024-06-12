@@ -1,2 +1,8 @@
 # Intellij
 .idea/*
+
+# hugo output folders
+public/*
+resources/*
+
+.hugo_build.lock
