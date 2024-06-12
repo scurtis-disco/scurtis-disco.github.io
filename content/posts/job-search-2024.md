@@ -1,7 +1,7 @@
 +++
 title = 'Job Search 2024'
 date = 2024-06-12T14:31:06-04:00
-draft = true
+draft = false
 +++
 
 ## The Neverending Story
