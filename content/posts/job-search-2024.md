@@ -6,7 +6,7 @@ draft = false
 
 ## The Neverending Story - Job Search ~~2023~~ 2024
 
-{{< figure src="/images/wiener_mobile.png" rel="wiener mobile in the wild" caption="Thank you for taking the time to apply but we've decided to move forward with a candidate that better fits our needs for driving giant wiener-shaped vehicles" >}}
+{{< figure src="/images/wiener_mobile.png" rel="wiener mobile in the wild" caption="Thank you for taking the time to apply but we've decided to move forward with a candidate that better fits our needs for driving giant wiener-shaped vehicles" class="footnotes" >}}
 
 Ok, so it's not never-ending, there is always an end in sight. But being on the job market for the second time in less
 than a year has a Merry-Go-Round feel to it for sure. I will add software engineering posts and such to this blog, but I'm
