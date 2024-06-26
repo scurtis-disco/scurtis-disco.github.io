@@ -12,6 +12,7 @@ theme = 'bilberry-hugo-theme/v4'
     copyrightUseCurrentYear = true
     # date format
     dateFormat = "2024-06-12"
+    customimage = "/images/cali-orly.jpg"
 
 [[module.mounts]]
 source = 'static'
@@ -21,6 +22,8 @@ target = 'static'
 source = 'images'
 target = 'static/images'
 
+[markup.goldmark.parser.attribute]
+block = true
 #[params.copyright]
 #    prefix = 'Copyright'
 #    holder = 'by Sean Curtis'
