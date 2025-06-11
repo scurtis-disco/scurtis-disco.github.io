@@ -80,3 +80,8 @@ I'll update this post as my journey continues...
 ## Random Thought of the Post
 
 My wife and I were at a brewpub the other day in the Ohio City section of Cleveland called [Nano Brew](https://www.nanobrewcleveland.com/), and [American Pie](https://www.youtube.com/watch?v=PRpiBpDy7MQ) (the song, not the movie) came on. For a song about the day the music died, it sure takes a long time to kill it.  
+
+## __Update 2025-06-11__
+
+I did find a new position last September and I have been as lax as can be in keeping this updated. I'll put some more info
+in later.
